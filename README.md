@@ -33,6 +33,6 @@ $ python run.py
 Silahkan capture web nya menggunakan aplikasi 
 httpcanary atau aplikasi captrue lain nya
 ```
-- [X] Bitcoin Free [here](https://qashbits.com/?ref=44996)
+- [X] Web TRX [here](https://surf-trx.com?r=Tuyulkece)
 
 
